@@ -1,6 +1,6 @@
 # MetaCall Core Zig Example
 
-This example shows how to build [MetaCall Core](https://github.com/metacall/core) by using [Zig](https://ziglang.org/) compiler. The example has been developed mainly by @Deecellar.
+This example shows how to build [MetaCall Core](https://github.com/metacall/core) by using [Zig](https://ziglang.org/) compiler. The example has been developed mainly by [@Deecellar](https://github.com/Deecellar).
 
 ## Building
 
